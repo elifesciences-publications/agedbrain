@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Miller et al., "Neuropathological and transcriptomic characteristics of the aged brain". eLife, 2017. http://dx.doi.org/10.7554/eLife.31126
+
 # agedbrain
 This repository contains code and files for reproducing the analysis presented in "Neuropathological and transcriptomic characteristics of the aged brain," [LINK/INFO HERE] the platform paper for the Aging, Dementia, and TBI Study. 
 
